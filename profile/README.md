@@ -12,5 +12,5 @@ Description of our repositories.
 
 - **[aii4.0-pipeline](https://github.com/AII4-0/aii4.0-pipeline)** : Contains the implementation of a complete MLOps pipeline for the models of the [tsad-benchmark](https://github.com/AII4-0/tsad-benchmark) repository.
 
-- **[aii4.0-pipeline-defect-detection](aii4.0-pipeline-defect-detection)** : Contains the implementation of a MLOps pipeline for an alternative use case, focusing on the visual detection of geometrical defects in manufactured cutting-tools. A graphical user interface is included (data used is private due to confidentiality concerns of our industrial partner).
+- **[aii4.0-pipeline-defect-detection](https://github.com/AII4-0/aii4.0-pipeline-defect-detection)** : Contains the implementation of a MLOps pipeline for an alternative use case, focusing on the visual detection of geometrical defects in manufactured cutting-tools. A graphical user interface is included (data used is private due to confidentiality concerns of our industrial partner).
 
