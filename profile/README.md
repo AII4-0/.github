@@ -1,4 +1,4 @@
-<img width=154 src="./images/logo.png" alt="AII4.0"/>
+<img width=154 src="https://github.com/AII4-0/.github/blob/main/profile/images/logo.png" alt="AII4.0"/>
 
 # AI for Industry 4.0
 
