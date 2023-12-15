@@ -10,5 +10,5 @@ Description of our repositories.
 
 - **[TinyML-VacuumPumps](https://github.com/AII4-0/TinyML-VacuumPumps)** : Contains a ML-app fpr predictive maintenance on Vacuum Pumps. There are various anomalies on vacuum pumps and the ML-app is able to detect them. In addition, the repo contains two STMCubeIDE projects used to deploy the ML-app on a STM32 microcontroller. One project is used to test the ML-app on the board with test data and the second project is used to detect anomalies directly on the vacuum pump in real time.
 
-- **[aii4.0-pipeline](https://github.com/AII4-0/aii4.0-pipeline)** : Contains the implementation of a complete MLOps pipeline for the models of the [tsad-benchmark] repository.
+- **[aii4.0-pipeline](https://github.com/AII4-0/aii4.0-pipeline)** : Contains the implementation of a complete MLOps pipeline for the models of the [tsad-benchmark](https://github.com/AII4-0/tsad-benchmark) repository.
 
